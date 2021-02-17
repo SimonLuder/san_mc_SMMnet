@@ -139,7 +139,9 @@ cython_debug/
 
 # Data Folder
 .data
+.images
 
 # Other files
 *.csv
 *.zip
+*.png
