@@ -145,3 +145,4 @@ cython_debug/
 *.csv
 *.zip
 df_reports/*
+images/likes_connected_components.png
